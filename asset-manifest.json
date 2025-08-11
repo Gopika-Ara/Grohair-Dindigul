@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/css/main.400091a6.css",
+    "main.js": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/js/main.c051b896.js",
+    "static/media/s1.png": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/s1.b67f4173ea9ca14b5c65.png",
+    "static/media/s2.png": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/s2.a4baaaa15da79759b137.png",
+    "static/media/1.jpg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/1.38b54821b17072efed59.jpg",
+    "static/media/s4.jpeg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/s4.c03fe48acdd7c79d45d0.jpeg",
+    "static/media/H4.jpeg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/H4.1a34302b4b507ccc46c3.jpeg",
+    "static/media/H1.jpeg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/H1.5d568cdec3a9ee3a0a70.jpeg",
+    "static/media/H5.jpeg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/H5.a9b04304ebbbd488a6af.jpeg",
+    "static/media/3.jpg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/3.064f0b5cf6677516d2d6.jpg",
+    "static/media/Logo.jpeg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/Logo.7d1faaf7684e76363ae3.jpeg",
+    "static/media/s3.jpeg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/s3.eda6c5ba3deb6bd60cf8.jpeg",
+    "static/media/H2.jpeg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/H2.ba590bcc25b1af4bd9a0.jpeg",
+    "static/media/2.jpg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/2.9cb057c96dc3bc1db401.jpg",
+    "static/media/H3.jpeg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/H3.c2172e51851d09edb800.jpeg",
+    "static/media/s5.jpeg": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/s5.a9ef26dbe28b5751fd83.jpeg",
+    "static/media/logo1.png": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/media/logo1.762a9ce754782b5ace42.png",
+    "index.html": "/Gopika-Ara/Grohair-Dindigul/actions/new/index.html",
+    "main.400091a6.css.map": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/css/main.400091a6.css.map",
+    "main.c051b896.js.map": "/Gopika-Ara/Grohair-Dindigul/actions/new/static/js/main.c051b896.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.400091a6.css",
+    "static/js/main.c051b896.js"
+  ]
+}
